@@ -1,5 +1,7 @@
 package com.nighthawk.spring_portfolio.mvc.calendar;
 
+import java.util.Scanner;
+
 // Prototype Implementation
 
 public class APCalendar {
